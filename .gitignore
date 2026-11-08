@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Runtime output / state (paper log, caches, positions, Brier scores)
+logs/
+data/
+*.db
+*.sqlite*
+*state*.json
+pending_outcomes.json
+
+# Tooling / OS
+node_modules/
+.claude/
+.DS_Store

@@ -1,0 +1,10 @@
+hyperliquid-python-sdk
+langchain-anthropic
+langgraph
+langchain-core
+langchain
+requests
+pandas
+python-dotenv
+tabulate
+langchain-ollama
